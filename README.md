@@ -1,6 +1,6 @@
 # Personality Insights with IBM
 
-This is a simple React app that allows the user to get personality insights from text, using the cognitive services cloud provided by IBM.
+This is a simple MobX-powered React app that allows the user to get personality insights from text, using the cognitive services cloud provided by IBM.
 It is a demonstration of how to build an app based on IBM's services, using only javascript.
 
 In order to use it:
