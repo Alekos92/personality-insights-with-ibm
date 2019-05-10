@@ -18,7 +18,7 @@ app.post('/api/world', (req, res) => {
 
 
     const url = 'https://gateway-lon.watsonplatform.net/personality-insights/api';
-    const key = '-PdOISFQttK6fAzVEmwT7NPWFZ46mdpblwVwTPeoOBGx';
+    const key = 'your_key_here';
 
     let PersonalityInsightsV3 = require('watson-developer-cloud/personality-insights/v3');
     let PersonalityTextSummaries = require('personality-text-summary');
